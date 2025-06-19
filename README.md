@@ -1,4 +1,4 @@
-# PIPI3
+# PIPI-C
 Identifying PTM Combinations in Peptides Using Mixed Integer Linear Programming
 
 Contact: slaiad@connect.ust.hk
